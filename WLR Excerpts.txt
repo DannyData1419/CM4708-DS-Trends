@@ -1,0 +1,1 @@
+The WLR Tensioner aims to secure the BOP (Blow Out Preventor) structure in the horizontal plane by tethering it to the dedicated subsea interface with a pre-determined tension, to counteract wellhead fatigue. A complete WLR system consists of multiple Tensioners that tether the BOP from different angles
